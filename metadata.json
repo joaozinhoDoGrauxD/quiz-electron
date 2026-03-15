@@ -1,0 +1,5 @@
+{
+  "name": "Mestre do Electron",
+  "description": "Um aplicativo de questionário interativo focado em Electron",
+  "requestFramePermissions": []
+}
